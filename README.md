@@ -1,3 +1,3 @@
 # disenho_software
 
-Este es un git para el UML, cyndx si se logra?
+UML del proyecto del curso "Diseño de Software"
